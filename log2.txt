@@ -1,0 +1,3 @@
+git add .    //means git add all
+git status   //chech unadded files
+git commit -m 'Changed filenamehere'       // commit
