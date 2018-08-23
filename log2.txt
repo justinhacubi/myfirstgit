@@ -7,3 +7,19 @@ git branch branchnamehere // create branch
 git checkout "branch name here"
 
 git merge branchnamehere
+
+
+git clone "link"
+
+
+//link to github
+
+git remote
+
+
+git remote add origin "link"
+
+git push -u origin master
+
+
+gitpush
